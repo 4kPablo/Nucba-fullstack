@@ -1,0 +1,12 @@
+body {
+    background-color: #449;
+}
+
+img {
+    border-radius: 2%;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+}
