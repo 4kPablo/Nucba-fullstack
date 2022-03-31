@@ -25,7 +25,7 @@
 3. Compartir el repo en el canal privado de Discord.
 ```
 
-### Desafío 3
+### Desafío 4
 ```bash
 1. Practicar Ramas en Github. 
 👉 Tranqui si no sale, lleva mucho tiempo, pero hay que empezar por algo!.
