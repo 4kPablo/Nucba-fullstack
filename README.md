@@ -1,7 +1,7 @@
 
 **Repositorio dedicado a resolver los desafíos del [curso de Programación Web fullstack de Nucba](https://nucba.com.ar/codingbootcamp)**
 
-### Desafío 1
+### Desafío 1 ✅
 ```bash
 1. Crear un archivo html
 2. Utilizando las etiquetas vistas en clase, crear su perfil, es decir:
@@ -18,14 +18,14 @@
 3. Crear un form de contacto abajo de nuestra info.
 ```
 
-### Desafío 3
+### Desafío 3 ✅
 ```bash
 1. Crear un repositorio.
 2. Subir el material de los desafíos que hicimos en las clases anteriores.
 3. Compartir el repo en el canal privado de Discord.
 ```
 
-### Desafío 4
+### Desafío 4 ✅
 ```bash
 1. Practicar Ramas en Github. 
 👉 Tranqui si no sale, lleva mucho tiempo, pero hay que empezar por algo!.
