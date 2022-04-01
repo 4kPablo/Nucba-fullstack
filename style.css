@@ -1,5 +1,6 @@
 body {
     margin 0;
+    padding: 0;
     background-color: #449;
 }
 
@@ -10,4 +11,14 @@ img {
 * {
     font-family: 'Roboto', sans-serif;
     font-size: 19px;
+}
+
+/* Modo pat */
+.perfil img:hover {
+    cursor: grab;
+}
+
+.perfil li:hover {
+    background-color: red;
+    cursor:pointer;
 }
