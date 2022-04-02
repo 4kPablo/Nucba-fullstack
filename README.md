@@ -11,7 +11,7 @@
 ```
 
 
-### Desafío 2
+### Desafío 2 ✔
 ```bash
 1. Tomar el archivo HTML del desafío anterior.
 2. El contenido del archivo colocarlo dentro de un DIV.
