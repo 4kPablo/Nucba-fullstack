@@ -38,13 +38,15 @@ Archivo adjunto: [mockuplogin.jpg](https://drive.google.com/file/d/1ybGP7xEAqu2w
 Primero vamos a crear un repo para esta práctica pueden llamarla "login-landing".
 👉 Vamos a subir un ejercicio donde vamos a maquetar el siguiente diseño adjunto "mockuplogin.jpg",
 primero realizaremos el Mockup (en Whimsical) el cual vamos a exportarlo en .jpg para compartirlo
-en una carpeta llamada "Mockup" y luego estructuramos con HTML5 el esqueleto del sitio y estilamos con CSS3.
+en una carpeta llamada "Mockup" y luego estructuramos con HTML5 el esqueleto del sitio y
+estilamos con CSS3.
 
 
 💻 Para la parte de etiquetas en HTML de base si o si vamos a trabajar con las siguientes:
 article | img | form | a | link | input
 
-Luego si ustedes le dan otra vuelta de rosca, agregan o le dan su impronta con otros tags, mejor aún!
+Luego si ustedes le dan otra vuelta de rosca,
+agregan o le dan su impronta con otros tags,mejor aún!
 Luego para la parte de estilar elementos tenemos 2 opciones:
 
 🔴 Estilar por medio de selectores:
@@ -57,8 +59,8 @@ font-size: 16px;
 }
 
 🔴 Estilar por medio de clases:
-Declarando una clase podemos hacer que las propiedades se apliquen sólo a lo elementos que queremos,
-¡y podemos reutilizarla!
+Declarando una clase podemos hacer que las propiedades se apliquen sólo a los
+elementos que queremos, ¡y podemos reutilizarla!
 ej:
 HTML
 
