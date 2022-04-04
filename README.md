@@ -33,6 +33,13 @@
 3. Compartí el link en el canal privado de Discord.
 ```
 ### Desafío 5
+```bash
+Realizar a continuación cada uno de los ejercicios.
+👉 Replicar cada ejercicio en un archivo html.
+👉 Entregar todos en un solo link de drive (recordá ponerlo público).
+```
+
+### Desafío 6
 Archivo adjunto: [mockuplogin.jpg](https://drive.google.com/file/d/1ybGP7xEAqu2wegA0p65hP3fGQoLhJACs/view)
 ```bash
 Primero vamos a crear un repo para esta práctica pueden llamarla "login-landing".
